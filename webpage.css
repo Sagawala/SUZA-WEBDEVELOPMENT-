@@ -1,0 +1,36 @@
+table{
+    border-collapse: collapse;
+    width: 100px;
+}
+th,td{
+    padding:8px;
+    text-align: left;
+    border-bottom: 1px solid #97366f;
+}
+
+th{
+    background-color: #8729ac;
+    font-weight: bold;
+}
+body{
+ align-content: center;
+}
+
+button{
+    background-color: white;
+    border-collapse: collapse;
+    color: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: #97366f;
+    display: inline-block;
+    font-size: 16px;
+    margin:10px;
+    cursor: pointer;
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 15x 0;
+    color: plum;
+}
